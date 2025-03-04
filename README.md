@@ -11,7 +11,7 @@ I'm **Slaven**, System Administrator and DevOps Engineer with experience in Wind
 ## 🛠️ Tech Stack  
 - 🐳 Docker | Kubernetes | Helm | ArgoCD  
 - ☁️ AWS (S3, RDS, IAM) | Hetzner Cloud  
-- 🔧 Terraform | Ansible | CI/CD (Azure Pipelines, GitHub Actions)  
+- 🔧 Terraform | Ansible | CI/CD (Azure Pipelines, GitHub Actions) | PowerShell 
 - 🖥️ Linux | WSL | Windows | Windows Server
 
 ## 📊 GitHub Stats  
