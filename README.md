@@ -15,8 +15,8 @@ I'm **Slaven**, System Administrator and DevOps Engineer with experience in Wind
 - 🖥️ Linux | WSL | Windows | Windows Server
 
 ## 📊 GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=slaveng22&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=slaveng22&layout=compact&theme=tokyonight)  
 
 <!--
 **slaveng22/slaveng22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
