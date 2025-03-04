@@ -1,6 +1,6 @@
 - 🌱 **Currently Learning:** Advanced Kubernetes, GitOps with ArgoCD  
 - 🚀 **Working On:** Migrating apps to Kubernetes, optimizing CI/CD pipelines
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj)
 - ⚡ **Fun Fact:** I started as a agriculture engineer before transitioning into IT!  
 
 
