@@ -8,7 +8,7 @@
 
 # Hi there! 👋
 
-I'm Slaven, a System Administrator with experience in Windows Server, PowerShell, M365, and Linux. I'm looking to transition into a Linux Admin, Cloud Engineer, or DevOps Engineer role. I'm currently enjoying setting up my homelab with my old gaming PC, my old laptop, and a cheap Raspberry Pi. I'm also struggling to set up good procedures, pipelines, and infrastructure for a couple of applications in a startup where I currently work.
+I'm Slaven, a System Administrator with experience in Windows Server, PowerShell, M365, and Linux. I'm looking to transition into a Linux Admin, Cloud Engineer, or DevOps Engineer role. I'm currently enjoying setting up my homelab with my old gaming PC, my old laptop, and a cheap Raspberry Pi. I'm also on my way to set up good procedures, pipelines, and infrastructure for a couple of applications in a startup where I currently work.
 
 ## 🛠️ Tech Stack:
 
