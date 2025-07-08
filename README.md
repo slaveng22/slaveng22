@@ -4,7 +4,7 @@
 - 🚀 **Working On (Job)**: Creating a good Azure DevOps pipeline for building, testing, and deploying our .NET and React apps, and setting up infrastructure in AWS.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj)
 - ⚡ **Fun Fact**: I started as an agricultural engineer before transitioning into IT!
-- ⚡ **Fun Fact**: Daily driving Linux Mint, but making a living by working mostly in a Windows environment!
+- ⚡ **Fun Fact**: Daily driving Linux, but making a living by working mostly in a Windows environment!
 
 # Hi there! 👋
 
