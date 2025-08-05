@@ -3,8 +3,10 @@
 - 🚀 **Working On (Private)**: Setting up a homelab with headless KVM, Docker, and K3s.
 - 🚀 **Working On (Job)**: Creating a good Azure DevOps pipeline for building, testing, and deploying our .NET and React apps, and setting up infrastructure in AWS.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj)
-- ⚡ **Fun Fact**: I started as an agricultural engineer before transitioning into IT!
-- ⚡ **Fun Fact**: Daily driving Linux, but making a living by working mostly in a Windows environment!
+- ⚡ **Fun Facts**:
+  - I use Debian BTW, on old ThinkPad BTW
+  - I use vim BTW   
+
 
 # Hi there! 👋
 
