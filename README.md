@@ -4,7 +4,7 @@
 - 🚀 **Working On (Job)**: Creating a good Azure DevOps pipeline for building, testing, and deploying our .NET and React apps, and setting up infrastructure in AWS.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj)
 - ⚡ **Fun Facts**:
-  - I use Debian BTW, on old ThinkPad BTW
+  - I use Debian BTW, on an old ThinkPad BTW
   - I use vim BTW   
 
 
