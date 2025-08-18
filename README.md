@@ -1,11 +1,11 @@
 - 🌱 **Currently Learning**: Advanced Linux, Advanced AWS, Kubernetes, Ansible, Terraform.
-- 📖 **Future Learning**: Advanced Kubernetes, Helm, ArgoCD, Python, Go, SQL, CI/CD.
+- 📖 **Future Learning**: Advanced Kubernetes, Helm, ArgoCD, Python, SQL, CI/CD.
 - 🚀 **Working On (Private)**: Setting up a homelab with headless KVM, Docker, and K3s.
 - 🚀 **Working On (Job)**: Creating a good Azure DevOps pipeline for building, testing, and deploying our .NET and React apps, and setting up infrastructure in AWS.
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/slaven1gugolj)
 - ⚡ **Fun Facts**:
-  - I use Debian BTW, on an old ThinkPad BTW
-  - I use vim BTW   
+  - I worked as agriculture engineer before transitioning to IT. 
+  - I use Debian BTW and Vim BTW
 
 
 # Hi there! 👋
