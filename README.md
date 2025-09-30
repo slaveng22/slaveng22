@@ -18,7 +18,10 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 - PowerShell Module: WorkMadeEasy
 ## 🌱 Learning
 - AWS
-- Terraform
+- T erraform
+## ⚡ Fun Facts
+- I was an agriculture engineer before moving into IT
+- Debian + Vim user (of course)
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=slaveng22&show_icons=true&theme=tokyonight)  
