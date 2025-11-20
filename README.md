@@ -18,7 +18,7 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 - PowerShell Module: WorkMadeEasy
 ## 🌱 Learning
 - AWS
-- T erraform
+- Terraform
 ## ⚡ Fun Facts
 - I was an agriculture engineer before moving into IT
 - Debian + Vim user (of course)
