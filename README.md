@@ -5,7 +5,7 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 ## 🛠️ Tech Stack
 - 🐳 Docker | Docker Compose
 - ☁️ AWS (S3, RDS, IAM) | Hetzner Cloud | M365
-- 🔧 PowerShell | Bash | Terraform | Ansible | CI/CD (Azure Pipelines)
+- 🔧 PowerShell | Bash | Terraform  | CI/CD (Azure Pipelines)
 - 🖥️ Linux | WSL | Windows | Windows Server
 ## 🚀 Current Work
 - Homelab: Headless KVM, Docker, K3s
