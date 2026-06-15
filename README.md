@@ -8,8 +8,7 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 - 🔧 PowerShell | Bash | Terraform  | CI/CD (Azure Pipelines)
 - 🖥️ Linux | WSL | Windows | Windows Server
 ## 🚀 Current Work
-- Homelab: Headless KVM, Docker, K3s
-- Startup: Azure DevOps pipelines for .NET/React apps + AWS infrastructure
+- Homelab: Headless KVM, Podman, Selfhosting some services
 ## 💡 Projects
 - Migrated 15 TB File Server with PowerShell (Robocopy + Registry automation)
 - Built a Hyper-V cluster
@@ -20,7 +19,7 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 - AWS
 - Terraform
 ## ⚡ Fun Facts
-- I was an agriculture engineer before moving into IT
+- I wanted to become agriculture engineer before moving into IT
 - Debian + Vim user (of course)
 
 ## 📊 GitHub Stats  
