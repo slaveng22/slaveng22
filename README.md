@@ -7,20 +7,7 @@ I'm Slaven, a System Administrator with experience in Windows Server, PowerShell
 - ☁️ AWS (S3, RDS, IAM) | Hetzner Cloud | M365
 - 🔧 PowerShell | Bash | Terraform  | CI/CD (Azure Pipelines)
 - 🖥️ Linux | WSL | Windows | Windows Server
-## 🚀 Current Work
-- Homelab: Headless KVM, Podman, Selfhosting some services
-## 💡 Projects
-- Migrated 15 TB File Server with PowerShell (Robocopy + Registry automation)
-- Built a Hyper-V cluster
-- Automated VM creation with PowerShell
-- DSC setup for quick test environments (2 DCs, 1 Server, 1 Client)
-- PowerShell Module: WorkMadeEasy
-## 🌱 Learning
-- AWS
-- Terraform
-## ⚡ Fun Facts
-- I wanted to become agriculture engineer before moving into IT
-- Debian + Vim user (of course)
+
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=slaveng22&show_icons=true&theme=tokyonight)  
